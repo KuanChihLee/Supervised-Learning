@@ -4,5 +4,5 @@ Implementing supervised learning techniques in Adult Income prediction
 3. Tasks: 
    a. dealing with missing data (drop or padding); 
    b. feature selection/engineering (categorical and numerical data); 
-   c. Imbalanced observation (oversampling)
+   c. Imbalanced observation (oversampling);
    d. Analytical Modeling and selection
