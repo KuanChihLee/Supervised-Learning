@@ -1,0 +1,11 @@
+IPO
+
+Private companies often go public by issuing shares of stock referred to as initial public offerings (IPOs). A study of 482 IPOs was conducted to determine what are the characteristics of companies that attract venture capital funding. The response of interest is whether or not a company was financed with venture capital funds. Potential predictors include the face value of the company, the number of shares offered, and whether or not the company underwent a leveraged buyout. Each line of the dataset has an identification number, and provides information on four other variables. The variables are:  
+
+Variable number		Variable name			Description
+	
+1 			Identification number		1-482
+2 			Venture capital funding		Presence (1) or absence (0) of venture capital funding
+3 			Face value of company		Estimated face value of the company from prospectus (in dollars)
+4 			Number of shares offered	Total number of shares offered
+5 			Leveraged buyout		Presence (1) or absence (0) of leveraged buyout
