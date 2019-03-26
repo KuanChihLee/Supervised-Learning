@@ -18,3 +18,9 @@ In CODE_in_APPENDIX_of_Project_for_DS_5220.r
 
 In Final Report_v3.pdf
 1. Submission of project report
+
+In us-census-data folder:
+1. Raw data: adult_income.csv
+2. After preprocessing: adult_processed.csv
+3. After one-hot encoder: adult_processed_onehot.csv
+4. After oversampling: adult_processed_smote.csv
